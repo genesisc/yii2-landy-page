@@ -1,0 +1,21 @@
+{
+    "name": "genesisc/yii2-landy-page",
+    "description": "Landy CMS Page module",
+    "type": "yii2-extension",
+    "keywords": ["yii2","landy","page"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "genesisc",
+            "email": "e@genesis.kz"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "genesisc\\landyPage\\": ""
+        }
+    }
+}
